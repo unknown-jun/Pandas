@@ -3,7 +3,7 @@
 꾸준히 하나씩 풀자!!
 
 ## 목차:
-##1. Getting & Knowing your data
+1. Getting & Knowing your data '\n'
 ##2. Flitering & Sorting
 ##3. Grouping
 ##4. Apply
