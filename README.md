@@ -19,7 +19,7 @@
 
 ## Pandas 강의:
 1.Pandas 객체  
-  1-1. Series 객체  
+  &emsp;1-1. Series 객체  
   1-2. DataFrame 객체  
   1-3. Index 객체    
     1-3-1 Index 연산  
@@ -30,3 +30,5 @@
     2-3-1. 다중 인덱스 Series  
     2-3-2. 다중 인덱스 생성  
     2-3-3. 인덱싱 및 슬라이싱  
+
+출처: https://www.youtube.com/watch?v=lG8pEwvYwCw&t=8670s
