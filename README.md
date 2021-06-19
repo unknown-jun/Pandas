@@ -30,5 +30,19 @@
     &emsp;&emsp;2-3-1. 다중 인덱스 Series  
     &emsp;&emsp;2-3-2. 다중 인덱스 생성  
     &emsp;&emsp;2-3-3. 인덱싱 및 슬라이싱  
-
+    &emsp;&emsp;2-3-4. 다중 인덱싱 재정렬  
+  3. 데이터 연산:
+    &emsp;3-1. 연산자 범용 함수
+    &emsp;&emsp;3-1-1. add( )
+    &emsp;&emsp;3-1-2. sub( )
+    &emsp;&emsp;3-1-3. mul( )
+    &emsp;&emsp;3-1-4. truediv( )
+    &emsp;&emsp;3-1-5. mod( )
+    &emsp;&emsp;3-1-6. pow( )
+    &emsp;3-2. 정렬(sort)
+    &emsp;3-3. 순위(rank)
+    &emsp;3-4. 고성능 연산
+  4. 데이터 결합
+    &emsp;4-1. Concat( ) / Append( )   
+    
 출처: https://www.youtube.com/watch?v=lG8pEwvYwCw&t=8670s
