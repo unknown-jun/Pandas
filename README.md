@@ -44,5 +44,10 @@
     &emsp;3-4. 고성능 연산  
   4. 데이터 결합  
     &emsp;4-1. Concat( ) / Append( )     
-    
+    &emsp;4-2. 병합과 조인     
+  5. 데이터 집계와 그룹 연산     
+    &emsp;5-1. 집계 연산(Aggregation)     
+    &emsp;5-2. GroupBy 연산  
+    &emsp;5-3. 피벗 테이블(Pivot Table)  
+    &emsp;5-4. 범주형(Categorical) 데이터    
 출처: https://www.youtube.com/watch?v=lG8pEwvYwCw&t=8670s
