@@ -50,4 +50,17 @@
     &emsp;5-2. GroupBy 연산  
     &emsp;5-3. 피벗 테이블(Pivot Table)  
     &emsp;5-4. 범주형(Categorical) 데이터    
+  6. 문자열 연산  
+    &emsp;6-1. 문자열 연산자  
+    &emsp;6-2. 기타 연산자  
+    &emsp;6-3. 정규 표현식  
+  7. 시계열 처리
+    &emsp;7-1. 시계열 데이터 구조  
+    &emsp;7-2. 시계열 기본  
+    &emsp;7-3. 주가와 오프셋  
+    &emsp;7-4. 시프트( Shift )  
+    &emsp;7-5. 시간대 처리  
+    &emsp;7-6. 기간과 기간 연산  
+  8. 데이터 읽기 및 저장  
+  9. 데이터 정제
 출처: https://www.youtube.com/watch?v=lG8pEwvYwCw&t=8670s
