@@ -23,6 +23,7 @@
   &emsp;1-2. DataFrame 객체  
   &emsp;1-3. Index 객체    
     &emsp;&emsp;1-3-1 Index 연산  
+    <br>
 2. 인덱싱 ( Indexing ):  
   &emsp;2-1. Series 인덱싱  
   &emsp;2-2. DataFrame 인덱싱  
