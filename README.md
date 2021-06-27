@@ -32,6 +32,7 @@
     &emsp;&emsp;2-3-2. 다중 인덱스 생성  
     &emsp;&emsp;2-3-3. 인덱싱 및 슬라이싱  
     &emsp;&emsp;2-3-4. 다중 인덱싱 재정렬  
+    <br>
   3. 데이터 연산:  
     &emsp;3-1. 연산자 범용 함수  
     &emsp;&emsp;3-1-1. add( )  
@@ -43,18 +44,22 @@
     &emsp;3-2. 정렬(sort)  
     &emsp;3-3. 순위(rank)  
     &emsp;3-4. 고성능 연산  
+    <br>
   4. 데이터 결합  
     &emsp;4-1. Concat( ) / Append( )     
     &emsp;4-2. 병합과 조인     
+    <br>
   5. 데이터 집계와 그룹 연산     
     &emsp;5-1. 집계 연산(Aggregation)     
     &emsp;5-2. GroupBy 연산  
     &emsp;5-3. 피벗 테이블(Pivot Table)  
     &emsp;5-4. 범주형(Categorical) 데이터    
+    <br>
   6. 문자열 연산  
     &emsp;6-1. 문자열 연산자  
     &emsp;6-2. 기타 연산자  
     &emsp;6-3. 정규 표현식  
+    <br>
   7. 시계열 처리  
     &emsp;7-1. 시계열 데이터 구조  
     &emsp;7-2. 시계열 기본  
@@ -62,9 +67,11 @@
     &emsp;7-4. 시프트( Shift )  
     &emsp;7-5. 시간대 처리  
     &emsp;7-6. 기간과 기간 연산  
+    <br>
   8. 데이터 읽기 및 저장  
     &emsp;8-1. 텍스트 파일 읽기/쓰기  
     &emsp;8-2. 이진 데이터 파일 읽기/쓰기  
+    <br>
   9. 데이터 정제  
     &emsp;9-1. 누락값 처리  
     &emsp;&emsp;9-1-1. None: 파이썬 누락 데이터  
