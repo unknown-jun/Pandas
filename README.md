@@ -1,6 +1,6 @@
 # Pandas_Practice
 
-## 목차:
+## Pandas Practice
 1. Getting & Knowing your data
 2. Flitering & Sorting
 3. Grouping
@@ -15,7 +15,7 @@
 
 출처: https://github.com/guipsamora/pandas_exercises
 
-## Pandas 강의:
+## Lecture Review
 1.Pandas 객체  
   &emsp;1-1. Series 객체  
   &emsp;1-2. DataFrame 객체  
