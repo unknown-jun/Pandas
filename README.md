@@ -1,7 +1,5 @@
 # Pandas_Practice
 
-꾸준히 하나씩 풀자!!
-
 ## 목차:
 1. Getting & Knowing your data
 2. Flitering & Sorting
